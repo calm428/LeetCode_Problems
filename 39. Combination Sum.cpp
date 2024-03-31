@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     void solve(vector<int>& arr,vector<int>& v,  int target, int index,vector<vector<int>> &ans){
         // BC
         // found ans
